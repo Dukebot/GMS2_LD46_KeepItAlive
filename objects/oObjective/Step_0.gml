@@ -1,0 +1,1 @@
+setScale(hitPoints/maxHitPoints * scale);
